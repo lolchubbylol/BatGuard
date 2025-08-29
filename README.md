@@ -4,8 +4,6 @@
 
 BatGuard extends your laptop battery life through intelligent charging control and proactive notifications. It supports hardware-level charge limiting on compatible devices and provides smart software notifications on all Linux systems.
 
-Created by **Nathan** 🚀
-
 ## ✨ Features
 
 - 🏠 **At Home Mode** - Limits charging to 60% for maximum battery longevity
@@ -85,7 +83,5 @@ Info: Battery charging limited by hardware
 Battery health: Good practices! 👍
 ═══════════════════════════════════════
 ```
-
-**Made with ❤️ by Nathan**
 
 *Extending laptop battery life, one charge cycle at a time* 🔋✨
