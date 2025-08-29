@@ -1,3 +1,7 @@
+
+WARNING THIS IS A PROTOTYPE!
+I TRIED IT ON MY LAPTOP AND IT DIDN'T WORK 
+
 # 🔋 BatGuard
 
 **Smart Battery Management for Linux Laptops**
