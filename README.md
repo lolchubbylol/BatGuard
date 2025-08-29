@@ -1,6 +1,6 @@
 
 WARNING THIS IS A PROTOTYPE!
-I TRIED IT ON MY LAPTOP AND IT DIDN'T WORK 
+I TRIED IT ON MY LAPTOP AND IT DIDN'T WORK, IT only gives smart notifications
 
 # 🔋 BatGuard
 
